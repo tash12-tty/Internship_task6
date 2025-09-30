@@ -1,0 +1,12 @@
+** Tool used : PasswordMonstor **
+The password checker checks for the following characters in the password-
+- An uppercase
+- A lowercase
+- Characters or symbols (%,$,@,!, etc)
+- Number
+- Space or underscore
+
+If all these  parameters are given, then it also check for the arrangment of the characters. Then analyzes the given password and then gives the result.
+Like in this case, I have given a simple random password **Computer$123#**. It is showing me **weak** and an estimated time to crack it and some remarks as well.
+So I just reverse the word to **Retpumoc$123#**, and its showing me strong password and also the estimated time to crack it.
+This is how arrangment of characters also affects the strength of a password.
