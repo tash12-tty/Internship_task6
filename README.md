@@ -1,12 +1,8 @@
 ## To create password and then check the strength of the password using password strength tools ##
-Passwords, in this digital era are very cricual part of our privacy. We are loading hige amounts of data over the internet due to which attackers have the chance to manipulate the data or even steal sensative information. For protecting our privacy, we use password of authentication. 
-But the problem with us humans that we like to keep things straight and simple. So we keep such passwords which are very easy and remember and as a result, very easy for the crackers to crack the password. 
+Passwords, in this digital era are very cricual part of our privacy. We are loading huge amounts of data over the internet due to which attackers have the chance to manipulate the data or even steal sensative information. For protecting our privacy, we use password for authentication. 
+But the problem with us humans is that we like to keep things straight and simple. So we choose such passwords which are very easy and remember and as a result, very easy for the crackers to crack it. 
 
-In this task, I have created a password and check it against password cracker tools which help me strenghen my password.
-
-## Additional feature ##
-Instead of using some other password strength analyzer, I have created my own password strength analyzer which checks the password strength and rate the password as strong, medium or weak. And an additional which is implemented in the page is that it recommands us random strong passwords.
-I have also provided the entire frontend and backend code (integrated) in a seperate folder. 
+In this task, I have created a password and checked it against password cracking tools which helped me strengthen my password.
 
 ## Best practices to crack strong password ##
 1. Brute Force Attack
